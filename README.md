@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://i.imgur.com/bfsxPOA.jpg" alt="Centered Image" width="300">
-</p>
+![ItEX Logo](https://i.imgur.com/bfsxPOA.jpg)
 
 # ItEX Stock Market Exchange
 Welcome to the ItEX Stock Market Exchange website.  
@@ -26,4 +24,4 @@ If there are any issues with the website, please contact our IT and Information 
 
 If any company wants to join the ItEX market, the owner of said company should contact the nearest ItEX representative to begin the process.
 
-<p align="center">© 2025 ItEX S.M.A. All Rights Reserved.</p>
+© 2025 ItEX S.M.A. All Rights Reserved.
