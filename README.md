@@ -5,7 +5,6 @@ Welcome to the ItEX Stock Market Exchange website.
 We will update the prices of stocks in the table below.  
 The stocks will update every 2-3 days; if there is a delay, we will announce it here.
 
-## Stock Value (14.8.2025)
 | Ticker | Company | Price (Z$) | Change % | Market Cap | Volume | Sector | 
 |:------:|:-------:|:----------:|:--------:|:----------:|:------:|:------:|
 | ITX    | ItEX Stock Market Authority | 2 | 0% | 0 | 0 | Financial Services |
