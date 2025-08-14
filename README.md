@@ -5,8 +5,8 @@ Welcome to the ItEX Stock Market Exchange website.
 We will update the prices of stocks in the table below.  
 The stocks will update every 2-3 days; if there is a delay, we will announce it here.
 
-| Ticker | Company | Price (Z$) | Change % | Market Cap | Volume | Sector | 
-|:------:|:-------:|:----------:|:--------:|:----------:|:------:|:------:|
+| Ticker | Company | Price (Z$) | Change % | Market Cap | Volume | Sector |
+| ------ | ------- | ---------- | -------- | ---------- | ------ | ------ |
 | ITX    | ItEX Stock Market Authority | 2 | 0% | 0 | 0 | Financial Services |
 | SKF    | Sekaya Financials | 2 | 0% | 0 | 0 | Economic Consultation |
 |        |                    |   |    |   |   | |
