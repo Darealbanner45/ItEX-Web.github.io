@@ -11,7 +11,7 @@ The stocks will update every 2-3 days; if there is a delay, we will announce it 
 | Ticker | Company | Price (Z$) | Change % | Market Cap | Volume | Sector |
 | ------ | ------- | ---------- | -------- | ---------- | ------ | ------ |
 | ITX    | ItEX Stock Market Authority | 2 | 0% | 0 | 0 | Financial Services |
-|        |                    |   |    |   |   | |
+| TSC    | Test Company       | 0 | 0% | 0 | 0 | Testing |
 |        |                    |   |    |   |   | |
 |        |                    |   |    |   |   | |
 |        |                    |   |    |   |   | |
