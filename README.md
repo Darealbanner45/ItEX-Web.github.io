@@ -36,4 +36,5 @@ If any company wants to join the ItEX market, the owner of said company should c
 
 # Contact Us
 IT Manager Line ID: jethruku
+
 © 2025 ItEX S.M.A. All Rights Reserved.
