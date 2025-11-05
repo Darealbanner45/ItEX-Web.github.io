@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/cTYUHuh.png" width="1200">
+  <img src="https://i.imgur.com/cTYUHuh.png" width="650">
 </p>
 
 # Announcements
